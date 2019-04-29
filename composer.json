@@ -6,10 +6,10 @@
   "license": "MIT",
   "keywords": [
     "yii2",
-    "axios",
+    "axios"
   ],
   "support": {
-    "source": "https://github.com/andymark-by/yii2-axios",
+    "source": "https://github.com/andymark-by/yii2-axios"
   },
   "authors": [
     {
