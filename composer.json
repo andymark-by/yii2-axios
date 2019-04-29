@@ -1,0 +1,35 @@
+{
+  "name": "andymark-by/yii2-axios",
+  "description": "The Axios extension for the Yii framework",
+  "homepage": "https://github.com/andymark-by/yii2-axios",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "keywords": [
+    "yii2",
+    "axios",
+  ],
+  "support": {
+    "source": "https://github.com/andymark-by/yii2-axios",
+  },
+  "authors": [
+    {
+      "name": "Andrei Baturin",
+      "email": "andymark.bel@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0.14",
+    "bowel-asset/axios": "~2.5.13"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "andymark-by\\axios\\": "src"
+    }
+  }
+}
