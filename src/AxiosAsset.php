@@ -38,4 +38,9 @@ class AxiosAsset extends AssetBundle
     public $jsOptions = [
         'position' => View::POS_HEAD,
     ];
+    
+    public function init()
+    {
+        parent::init();
+    }
 }
