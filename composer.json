@@ -19,7 +19,7 @@
   ],
   "require": {
     "yiisoft/yii2": "~2.0.14",
-    "bowel-asset/axios": "~2.5.13"
+    "bower-asset/axios": "*"
   },
   "repositories": [
     {
