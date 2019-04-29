@@ -5,7 +5,7 @@
  * @license https://github.com/andymark-by/yii2-axios/blob/master/LICENSE
  */
 
-namespace andymark-by\axios;
+namespace andymark\axios;
 
 use yii\web\AssetBundle;
 use yii\web\View;
